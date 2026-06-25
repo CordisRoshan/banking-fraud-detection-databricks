@@ -1,0 +1,501 @@
+customer_id,customer_name,city,account_type,age,occupation,customer_segment,account_open_date
+1,Swathi Rao,Bangalore,Current,58,Analyst,Retail,2020-08-11
+2,Karan Singh,Bangalore,Savings,44,Manager,Premium,2023-03-14
+3,Aditya Kulkarni,Delhi,Current,27,Analyst,Retail,2022-05-30
+4,Vikram Patel,Mumbai,Current,29,Analyst,Retail,2023-12-11
+5,Siddharth Shetty,Mumbai,Current,50,Manager,Retail,2022-06-17
+6,Ananya Mehta,Mumbai,Savings,25,Business Owner,Premium,2021-02-06
+7,Nikhil Gowda,Chennai,Savings,48,Consultant,Premium,2022-09-15
+8,Divya Iyer,Mumbai,Savings,27,Doctor,Retail,2019-06-18
+9,Kavya Menon,Bangalore,Savings,45,Engineer,Premium,2020-11-16
+10,Aditya Das,Bangalore,Savings,62,Engineer,Retail,2022-03-18
+11,Vivaan Bose,Delhi,Savings,53,Doctor,Retail,2020-11-25
+12,Siddharth Sharma,Bangalore,Current,24,Business Owner,Retail,2019-11-01
+13,Rohan Jain,Mumbai,Savings,47,Doctor,Corporate,2022-07-06
+14,Swathi Shetty,Delhi,Current,42,Analyst,Premium,2024-10-09
+15,Karan Gowda,Bangalore,Savings,59,Doctor,Retail,2021-11-05
+16,Ananya Mishra,Delhi,Savings,54,Engineer,Retail,2022-11-19
+17,Nandini Gowda,Bangalore,Current,47,Manager,Retail,2018-07-22
+18,Meera Patel,Bangalore,Savings,24,Analyst,Retail,2021-05-08
+19,Sneha Mishra,Mumbai,Savings,28,Teacher,Premium,2022-09-23
+20,Vivaan Mehta,Hyderabad,Current,29,Teacher,Premium,2024-06-15
+21,Tanvi Das,Delhi,Savings,50,Manager,Retail,2018-04-30
+22,Priya Bose,Delhi,Savings,62,Engineer,Retail,2018-02-22
+23,Kavya Singh,Chennai,Current,29,Manager,Retail,2024-09-20
+24,Kavya Singh,Bangalore,Current,22,Analyst,Retail,2018-10-26
+25,Divya Nair,Hyderabad,Current,31,Consultant,Premium,2025-01-25
+26,Nandini Menon,Delhi,Current,21,Business Owner,Retail,2025-04-16
+27,Rohan Patel,Chennai,Savings,31,Teacher,Retail,2025-04-17
+28,Sneha Iyer,Bangalore,Current,27,Doctor,Retail,2024-04-12
+29,Ananya Patel,Bangalore,Savings,62,Doctor,Retail,2021-07-15
+30,Karan Mehta,Hyderabad,Savings,48,Analyst,Retail,2025-07-05
+31,Pooja Joshi,Bangalore,Savings,56,Manager,Retail,2022-04-18
+32,Vikram Gowda,Delhi,Current,47,Engineer,Retail,2023-12-27
+33,Kavya Reddy,Hyderabad,Savings,25,Business Owner,Retail,2023-11-16
+34,Rahul Menon,Hyderabad,Current,61,Analyst,Retail,2018-12-13
+35,Sneha Mishra,Bangalore,Savings,45,Engineer,Retail,2019-06-04
+36,Ananya Mehta,Hyderabad,Current,38,Business Owner,Retail,2024-12-02
+37,Ananya Kapoor,Mumbai,Current,44,Consultant,Retail,2018-02-21
+38,Divya Gupta,Mumbai,Current,44,Engineer,Premium,2020-05-19
+39,Divya Sharma,Delhi,Current,51,Doctor,Retail,2024-02-16
+40,Priya Shetty,Mumbai,Current,58,Teacher,Premium,2024-08-10
+41,Arjun Nair,Delhi,Savings,56,Analyst,Retail,2018-10-24
+42,Siddharth Joshi,Bangalore,Current,34,Engineer,Premium,2023-05-19
+43,Nandini Jain,Bangalore,Savings,43,Business Owner,Retail,2021-10-18
+44,Swathi Gowda,Hyderabad,Current,46,Business Owner,Retail,2020-05-07
+45,Sneha Nair,Bangalore,Savings,59,Analyst,Retail,2023-03-07
+46,Tanvi Bose,Bangalore,Savings,61,Analyst,Retail,2023-09-16
+47,Ananya Reddy,Chennai,Current,55,Teacher,Retail,2020-08-14
+48,Sneha Jain,Delhi,Savings,50,Consultant,Retail,2020-12-16
+49,Rahul Menon,Bangalore,Current,40,Consultant,Retail,2024-03-01
+50,Aditya Singh,Mumbai,Savings,26,Manager,Retail,2024-10-15
+51,Nikhil Nair,Delhi,Current,29,Analyst,Retail,2023-08-14
+52,Vikram Verma,Chennai,Savings,24,Manager,Premium,2020-03-04
+53,Vivaan Menon,Bangalore,Current,40,Business Owner,Retail,2019-12-25
+54,Nikhil Kulkarni,Hyderabad,Savings,62,Engineer,Retail,2018-07-18
+55,Divya Patel,Delhi,Savings,31,Manager,Corporate,2021-02-19
+56,Nikhil Gowda,Hyderabad,Current,49,Business Owner,Retail,2021-10-23
+57,Priya Gowda,Bangalore,Savings,58,Doctor,Premium,2019-03-18
+58,Swathi Kapoor,Delhi,Savings,49,Business Owner,Retail,2018-11-04
+59,Tanvi Jain,Delhi,Current,36,Doctor,Corporate,2018-04-09
+60,Nandini Gupta,Bangalore,Current,22,Teacher,Premium,2021-07-31
+61,Rahul Rao,Bangalore,Savings,38,Teacher,Premium,2019-11-06
+62,Rahul Nair,Bangalore,Savings,43,Consultant,Retail,2019-03-26
+63,Priya Mishra,Bangalore,Current,25,Doctor,Premium,2024-05-07
+64,Rahul Nair,Mumbai,Savings,61,Manager,Retail,2023-02-05
+65,Karan Mishra,Hyderabad,Current,34,Engineer,Retail,2024-09-29
+66,Aditya Rao,Delhi,Savings,57,Doctor,Retail,2023-02-09
+67,Kavya Rao,Chennai,Savings,31,Manager,Retail,2021-12-31
+68,Nikhil Mehta,Bangalore,Current,46,Manager,Retail,2019-12-17
+69,Karan Mishra,Hyderabad,Current,48,Doctor,Retail,2018-01-11
+70,Aditya Menon,Bangalore,Savings,53,Analyst,Retail,2025-08-21
+71,Ananya Joshi,Delhi,Savings,54,Analyst,Retail,2024-01-25
+72,Rahul Rao,Bangalore,Current,25,Teacher,Retail,2019-07-16
+73,Vivaan Rao,Bangalore,Current,52,Manager,Premium,2019-12-23
+74,Karan Kulkarni,Hyderabad,Current,25,Doctor,Retail,2024-11-25
+75,Rahul Jain,Bangalore,Current,35,Analyst,Retail,2021-11-09
+76,Aditya Das,Mumbai,Savings,32,Doctor,Premium,2023-03-28
+77,Rohan Bose,Mumbai,Savings,24,Engineer,Retail,2018-01-05
+78,Sneha Gowda,Hyderabad,Savings,58,Consultant,Retail,2025-07-30
+79,Rohan Iyer,Delhi,Savings,21,Doctor,Premium,2019-10-19
+80,Ananya Patel,Hyderabad,Current,58,Doctor,Retail,2021-07-24
+81,Rohan Gowda,Chennai,Current,64,Engineer,Premium,2022-08-14
+82,Siddharth Sharma,Mumbai,Current,41,Engineer,Retail,2021-01-17
+83,Rahul Mehta,Hyderabad,Savings,56,Doctor,Retail,2024-04-26
+84,Rohan Mehta,Chennai,Current,45,Teacher,Retail,2024-07-03
+85,Aditya Joshi,Chennai,Savings,32,Business Owner,Premium,2022-02-22
+86,Divya Singh,Bangalore,Current,24,Analyst,Retail,2025-04-21
+87,Meera Mishra,Delhi,Savings,60,Doctor,Retail,2023-04-03
+88,Nandini Gupta,Chennai,Current,58,Doctor,Premium,2021-05-08
+89,Vivaan Mishra,Hyderabad,Current,30,Consultant,Retail,2023-07-14
+90,Rohan Mishra,Bangalore,Savings,53,Consultant,Retail,2020-02-15
+91,Meera Gupta,Bangalore,Savings,46,Teacher,Premium,2019-10-12
+92,Divya Menon,Delhi,Savings,28,Consultant,Retail,2024-03-23
+93,Priya Reddy,Delhi,Current,30,Manager,Retail,2023-08-12
+94,Ananya Verma,Delhi,Current,42,Business Owner,Premium,2022-02-05
+95,Arjun Gowda,Chennai,Current,40,Analyst,Premium,2019-07-15
+96,Divya Gupta,Mumbai,Current,24,Engineer,Retail,2019-09-04
+97,Priya Joshi,Mumbai,Savings,25,Manager,Retail,2019-06-23
+98,Siddharth Iyer,Hyderabad,Savings,22,Business Owner,Retail,2019-08-26
+99,Divya Shetty,Hyderabad,Current,42,Engineer,Retail,2022-08-02
+100,Divya Sharma,Chennai,Current,36,Manager,Retail,2024-04-16
+101,Priya Joshi,Hyderabad,Current,50,Analyst,Retail,2021-01-04
+102,Aditya Gowda,Delhi,Current,42,Analyst,Retail,2019-09-21
+103,Siddharth Verma,Mumbai,Savings,41,Teacher,Retail,2023-08-27
+104,Vivaan Reddy,Delhi,Current,35,Business Owner,Retail,2018-09-30
+105,Nandini Gowda,Mumbai,Savings,51,Business Owner,Retail,2023-02-25
+106,Siddharth Verma,Delhi,Savings,40,Teacher,Retail,2024-04-14
+107,Vivaan Patel,Mumbai,Current,21,Doctor,Retail,2021-05-03
+108,Divya Patel,Delhi,Savings,28,Engineer,Retail,2025-03-26
+109,Aditya Gowda,Bangalore,Savings,48,Analyst,Retail,2021-10-02
+110,Karan Gupta,Hyderabad,Current,31,Consultant,Retail,2022-02-03
+111,Aditya Menon,Bangalore,Savings,56,Doctor,Retail,2021-12-08
+112,Vivaan Nair,Bangalore,Savings,39,Engineer,Retail,2025-01-19
+113,Vivaan Rao,Delhi,Current,28,Doctor,Retail,2024-03-28
+114,Meera Rao,Chennai,Savings,36,Analyst,Retail,2025-08-28
+115,Nikhil Bose,Delhi,Current,59,Doctor,Retail,2020-05-28
+116,Arjun Nair,Bangalore,Savings,38,Analyst,Premium,2021-02-11
+117,Nikhil Das,Mumbai,Savings,55,Analyst,Corporate,2024-09-21
+118,Pooja Mishra,Chennai,Current,30,Business Owner,Retail,2018-04-04
+119,Arjun Iyer,Delhi,Savings,34,Business Owner,Retail,2025-07-20
+120,Rahul Gowda,Mumbai,Savings,22,Consultant,Retail,2022-05-28
+121,Rahul Gupta,Bangalore,Savings,33,Consultant,Premium,2019-01-31
+122,Divya Shetty,Mumbai,Current,26,Analyst,Retail,2024-03-07
+123,Swathi Verma,Bangalore,Savings,23,Consultant,Retail,2025-06-06
+124,Arjun Gupta,Chennai,Current,28,Manager,Retail,2019-01-11
+125,Karan Patel,Chennai,Savings,63,Doctor,Retail,2023-05-12
+126,Tanvi Joshi,Bangalore,Savings,49,Business Owner,Retail,2020-02-07
+127,Vikram Gupta,Delhi,Savings,48,Consultant,Corporate,2019-09-26
+128,Priya Iyer,Bangalore,Savings,33,Doctor,Retail,2021-09-25
+129,Aarav Iyer,Hyderabad,Current,40,Doctor,Retail,2021-11-22
+130,Meera Das,Delhi,Savings,31,Doctor,Premium,2022-10-13
+131,Meera Bose,Bangalore,Current,48,Consultant,Premium,2024-05-25
+132,Rohan Singh,Bangalore,Current,43,Consultant,Premium,2021-09-09
+133,Siddharth Jain,Delhi,Current,53,Teacher,Premium,2022-08-25
+134,Tanvi Kapoor,Chennai,Current,28,Consultant,Retail,2022-08-31
+135,Kavya Menon,Chennai,Savings,29,Manager,Retail,2023-04-02
+136,Priya Gupta,Bangalore,Current,60,Engineer,Retail,2025-04-03
+137,Sneha Kapoor,Chennai,Savings,62,Business Owner,Retail,2025-04-16
+138,Pooja Menon,Mumbai,Savings,43,Doctor,Premium,2024-09-19
+139,Siddharth Rao,Mumbai,Current,40,Doctor,Retail,2018-09-01
+140,Meera Mehta,Mumbai,Savings,21,Consultant,Retail,2024-07-31
+141,Karan Verma,Hyderabad,Current,64,Consultant,Retail,2019-04-13
+142,Siddharth Rao,Bangalore,Current,62,Consultant,Retail,2021-03-07
+143,Priya Shetty,Mumbai,Current,38,Engineer,Retail,2018-11-10
+144,Ananya Sharma,Hyderabad,Savings,30,Consultant,Retail,2020-02-13
+145,Divya Mishra,Mumbai,Current,61,Teacher,Retail,2020-11-28
+146,Arjun Mishra,Bangalore,Current,41,Teacher,Retail,2022-07-23
+147,Aditya Reddy,Bangalore,Current,51,Consultant,Retail,2020-05-30
+148,Swathi Kapoor,Bangalore,Current,45,Doctor,Retail,2023-06-09
+149,Rahul Gowda,Delhi,Current,47,Teacher,Premium,2020-01-21
+150,Aarav Sharma,Delhi,Savings,50,Business Owner,Retail,2024-04-24
+151,Aditya Reddy,Delhi,Savings,50,Doctor,Retail,2023-08-01
+152,Arjun Gowda,Mumbai,Current,45,Manager,Retail,2019-09-03
+153,Swathi Rao,Hyderabad,Savings,52,Business Owner,Retail,2022-08-09
+154,Sneha Bose,Chennai,Savings,64,Consultant,Retail,2019-11-02
+155,Swathi Singh,Chennai,Current,34,Doctor,Retail,2020-11-29
+156,Rohan Shetty,Bangalore,Savings,53,Manager,Corporate,2025-02-15
+157,Tanvi Joshi,Mumbai,Current,27,Engineer,Retail,2021-04-05
+158,Kavya Shetty,Mumbai,Savings,45,Doctor,Retail,2022-09-04
+159,Sneha Iyer,Delhi,Savings,51,Doctor,Retail,2020-01-11
+160,Siddharth Jain,Bangalore,Savings,59,Doctor,Premium,2021-08-01
+161,Pooja Joshi,Mumbai,Savings,26,Business Owner,Retail,2021-08-23
+162,Priya Iyer,Bangalore,Savings,31,Doctor,Retail,2022-01-09
+163,Rahul Singh,Delhi,Current,59,Consultant,Retail,2023-09-19
+164,Kavya Rao,Mumbai,Current,48,Analyst,Corporate,2025-03-13
+165,Nandini Nair,Hyderabad,Savings,44,Teacher,Retail,2019-07-27
+166,Kavya Menon,Bangalore,Savings,25,Analyst,Retail,2021-01-22
+167,Arjun Gowda,Mumbai,Current,32,Teacher,Retail,2025-06-10
+168,Aarav Joshi,Bangalore,Savings,38,Teacher,Retail,2021-08-09
+169,Ananya Gupta,Bangalore,Current,45,Doctor,Retail,2019-06-17
+170,Meera Rao,Hyderabad,Current,23,Manager,Retail,2022-02-12
+171,Karan Singh,Hyderabad,Current,21,Consultant,Premium,2019-08-01
+172,Siddharth Kulkarni,Delhi,Savings,29,Doctor,Retail,2024-11-10
+173,Divya Nair,Mumbai,Savings,50,Business Owner,Retail,2018-02-17
+174,Nandini Nair,Chennai,Current,49,Analyst,Retail,2022-02-01
+175,Pooja Nair,Mumbai,Current,58,Doctor,Retail,2018-07-16
+176,Swathi Jain,Hyderabad,Savings,53,Analyst,Premium,2023-08-08
+177,Swathi Iyer,Delhi,Savings,48,Consultant,Retail,2020-06-26
+178,Tanvi Das,Hyderabad,Savings,47,Engineer,Retail,2024-04-05
+179,Arjun Sharma,Chennai,Current,56,Consultant,Retail,2022-06-06
+180,Kavya Gupta,Mumbai,Current,40,Business Owner,Retail,2022-10-11
+181,Pooja Rao,Chennai,Savings,42,Engineer,Premium,2023-04-22
+182,Aditya Kapoor,Hyderabad,Savings,43,Teacher,Retail,2020-07-29
+183,Nikhil Mehta,Bangalore,Savings,62,Doctor,Retail,2021-09-03
+184,Vikram Gupta,Mumbai,Current,60,Engineer,Retail,2023-04-17
+185,Siddharth Verma,Mumbai,Savings,60,Business Owner,Retail,2018-11-30
+186,Rohan Reddy,Delhi,Savings,59,Teacher,Retail,2019-08-27
+187,Ananya Nair,Hyderabad,Savings,46,Business Owner,Retail,2025-02-10
+188,Vivaan Gupta,Bangalore,Current,34,Manager,Retail,2020-05-04
+189,Aditya Verma,Bangalore,Current,61,Analyst,Retail,2020-09-13
+190,Nikhil Mehta,Bangalore,Current,39,Business Owner,Retail,2018-01-08
+191,Kavya Reddy,Bangalore,Savings,31,Business Owner,Retail,2023-02-20
+192,Nandini Kapoor,Mumbai,Savings,50,Analyst,Premium,2022-04-01
+193,Divya Kulkarni,Bangalore,Current,38,Engineer,Premium,2018-06-03
+194,Nandini Rao,Delhi,Savings,31,Analyst,Premium,2021-04-27
+195,Vivaan Verma,Delhi,Savings,28,Engineer,Premium,2018-08-05
+196,Arjun Kulkarni,Mumbai,Current,61,Business Owner,Premium,2025-03-15
+197,Karan Das,Chennai,Current,49,Consultant,Premium,2021-07-09
+198,Priya Joshi,Delhi,Current,40,Analyst,Premium,2020-10-03
+199,Vivaan Singh,Delhi,Savings,26,Business Owner,Retail,2024-10-04
+200,Karan Shetty,Bangalore,Savings,50,Manager,Retail,2019-04-03
+201,Sneha Nair,Delhi,Current,31,Doctor,Retail,2024-05-29
+202,Divya Mishra,Delhi,Savings,43,Consultant,Retail,2021-03-03
+203,Meera Iyer,Bangalore,Current,58,Manager,Retail,2023-12-10
+204,Divya Verma,Delhi,Current,44,Teacher,Retail,2021-08-05
+205,Divya Verma,Hyderabad,Current,54,Teacher,Retail,2023-01-01
+206,Divya Verma,Bangalore,Current,60,Engineer,Corporate,2020-12-12
+207,Ananya Menon,Bangalore,Current,51,Doctor,Retail,2023-01-19
+208,Vivaan Iyer,Bangalore,Current,37,Teacher,Retail,2018-03-27
+209,Ananya Menon,Delhi,Savings,25,Business Owner,Retail,2025-03-08
+210,Priya Kulkarni,Delhi,Savings,23,Business Owner,Premium,2019-06-12
+211,Nandini Mishra,Hyderabad,Current,35,Teacher,Retail,2025-03-31
+212,Meera Mishra,Mumbai,Savings,29,Analyst,Corporate,2020-07-06
+213,Meera Iyer,Bangalore,Current,34,Analyst,Retail,2022-06-23
+214,Sneha Iyer,Mumbai,Current,36,Doctor,Retail,2021-06-04
+215,Priya Das,Chennai,Current,64,Business Owner,Retail,2020-06-22
+216,Karan Jain,Mumbai,Current,51,Doctor,Retail,2020-11-22
+217,Siddharth Kapoor,Mumbai,Current,27,Consultant,Retail,2018-06-24
+218,Vivaan Bose,Mumbai,Savings,38,Analyst,Retail,2019-07-25
+219,Kavya Nair,Hyderabad,Current,29,Analyst,Retail,2024-10-27
+220,Tanvi Verma,Delhi,Savings,26,Teacher,Premium,2021-12-28
+221,Siddharth Verma,Bangalore,Current,59,Manager,Retail,2024-11-27
+222,Divya Nair,Mumbai,Savings,21,Business Owner,Retail,2020-04-26
+223,Divya Bose,Chennai,Savings,54,Teacher,Corporate,2023-08-23
+224,Rohan Gupta,Bangalore,Current,65,Doctor,Premium,2025-04-29
+225,Siddharth Rao,Bangalore,Current,29,Analyst,Premium,2022-09-12
+226,Aarav Menon,Delhi,Current,35,Engineer,Retail,2018-01-16
+227,Priya Rao,Hyderabad,Current,51,Business Owner,Retail,2021-01-05
+228,Karan Reddy,Mumbai,Current,33,Teacher,Retail,2024-06-23
+229,Kavya Joshi,Mumbai,Savings,33,Consultant,Retail,2021-08-05
+230,Priya Gupta,Bangalore,Current,47,Engineer,Retail,2018-10-15
+231,Vikram Reddy,Delhi,Current,38,Doctor,Retail,2024-05-17
+232,Rohan Mehta,Chennai,Savings,22,Business Owner,Retail,2022-08-30
+233,Vivaan Rao,Hyderabad,Current,39,Business Owner,Retail,2022-06-17
+234,Priya Bose,Bangalore,Savings,55,Doctor,Retail,2020-06-23
+235,Arjun Rao,Mumbai,Savings,24,Analyst,Retail,2020-05-19
+236,Siddharth Gowda,Bangalore,Savings,51,Business Owner,Retail,2021-09-21
+237,Rohan Patel,Delhi,Savings,29,Analyst,Retail,2025-02-23
+238,Vikram Das,Delhi,Savings,37,Teacher,Premium,2025-07-08
+239,Kavya Patel,Mumbai,Savings,31,Business Owner,Retail,2018-04-14
+240,Sneha Mishra,Bangalore,Savings,54,Analyst,Retail,2025-03-28
+241,Priya Gowda,Bangalore,Current,25,Teacher,Retail,2020-06-05
+242,Priya Patel,Hyderabad,Current,65,Engineer,Premium,2025-03-20
+243,Meera Patel,Delhi,Current,44,Analyst,Retail,2021-02-06
+244,Karan Gupta,Delhi,Current,47,Engineer,Corporate,2019-01-11
+245,Ananya Jain,Mumbai,Savings,51,Manager,Retail,2020-03-21
+246,Rahul Bose,Bangalore,Current,30,Teacher,Retail,2022-08-16
+247,Kavya Gupta,Mumbai,Savings,40,Consultant,Retail,2020-06-05
+248,Kavya Mehta,Bangalore,Current,39,Manager,Retail,2022-01-12
+249,Aarav Kapoor,Mumbai,Savings,38,Consultant,Retail,2020-11-28
+250,Meera Jain,Bangalore,Savings,55,Consultant,Retail,2024-09-12
+251,Aditya Jain,Bangalore,Savings,25,Engineer,Retail,2019-11-15
+252,Sneha Joshi,Bangalore,Savings,62,Analyst,Retail,2022-06-24
+253,Karan Nair,Bangalore,Savings,61,Engineer,Corporate,2019-12-02
+254,Karan Rao,Bangalore,Current,44,Analyst,Retail,2018-12-26
+255,Divya Nair,Delhi,Current,63,Doctor,Premium,2022-11-12
+256,Ananya Singh,Hyderabad,Current,23,Teacher,Retail,2022-08-09
+257,Swathi Jain,Mumbai,Current,51,Engineer,Retail,2019-04-24
+258,Meera Menon,Mumbai,Current,36,Business Owner,Premium,2018-04-04
+259,Aditya Das,Bangalore,Savings,38,Analyst,Retail,2021-03-24
+260,Rahul Das,Mumbai,Current,64,Teacher,Retail,2019-11-23
+261,Kavya Gowda,Mumbai,Current,39,Manager,Retail,2018-08-18
+262,Rohan Gowda,Hyderabad,Current,53,Engineer,Premium,2022-08-16
+263,Karan Das,Chennai,Savings,55,Consultant,Retail,2020-07-10
+264,Divya Sharma,Delhi,Current,42,Manager,Retail,2019-06-21
+265,Pooja Das,Delhi,Savings,30,Doctor,Retail,2024-09-25
+266,Sneha Kapoor,Delhi,Savings,51,Doctor,Premium,2018-01-23
+267,Aditya Rao,Mumbai,Current,24,Engineer,Retail,2022-07-11
+268,Swathi Bose,Hyderabad,Savings,25,Manager,Retail,2021-02-06
+269,Nandini Das,Mumbai,Current,27,Consultant,Retail,2019-08-24
+270,Pooja Iyer,Delhi,Savings,27,Teacher,Premium,2023-08-08
+271,Aditya Jain,Hyderabad,Savings,55,Consultant,Premium,2018-10-19
+272,Vivaan Gupta,Hyderabad,Savings,47,Teacher,Premium,2025-06-02
+273,Ananya Iyer,Mumbai,Current,54,Engineer,Retail,2024-04-02
+274,Meera Jain,Mumbai,Savings,36,Consultant,Retail,2025-04-10
+275,Arjun Nair,Chennai,Current,46,Engineer,Retail,2023-01-03
+276,Rohan Shetty,Mumbai,Savings,57,Business Owner,Retail,2021-03-23
+277,Sneha Bose,Delhi,Current,37,Doctor,Retail,2025-07-30
+278,Karan Mishra,Delhi,Current,29,Business Owner,Retail,2021-07-23
+279,Arjun Gupta,Bangalore,Savings,28,Manager,Premium,2023-04-03
+280,Nikhil Sharma,Bangalore,Savings,38,Engineer,Premium,2018-12-16
+281,Rohan Kapoor,Bangalore,Current,41,Manager,Retail,2024-07-14
+282,Meera Patel,Mumbai,Savings,56,Doctor,Premium,2023-02-09
+283,Rohan Gupta,Chennai,Savings,23,Manager,Retail,2025-01-05
+284,Aditya Joshi,Delhi,Current,36,Analyst,Premium,2024-12-02
+285,Siddharth Joshi,Hyderabad,Savings,65,Business Owner,Premium,2018-08-24
+286,Arjun Rao,Chennai,Current,21,Doctor,Retail,2021-11-27
+287,Aditya Verma,Chennai,Savings,57,Engineer,Retail,2022-06-30
+288,Arjun Gowda,Delhi,Savings,49,Consultant,Retail,2024-12-10
+289,Nikhil Reddy,Mumbai,Current,39,Engineer,Premium,2022-04-30
+290,Pooja Sharma,Bangalore,Current,31,Engineer,Retail,2018-01-04
+291,Karan Kapoor,Chennai,Current,65,Analyst,Retail,2018-05-11
+292,Priya Shetty,Mumbai,Current,23,Consultant,Retail,2024-08-19
+293,Rahul Joshi,Mumbai,Savings,57,Engineer,Retail,2019-03-17
+294,Swathi Das,Bangalore,Savings,34,Doctor,Retail,2018-06-19
+295,Vikram Rao,Mumbai,Current,63,Business Owner,Corporate,2023-07-13
+296,Aditya Nair,Delhi,Current,29,Teacher,Premium,2022-09-06
+297,Karan Menon,Delhi,Savings,47,Engineer,Retail,2020-09-18
+298,Swathi Shetty,Hyderabad,Current,41,Manager,Retail,2023-12-18
+299,Sneha Sharma,Bangalore,Savings,31,Engineer,Premium,2020-06-20
+300,Vikram Mehta,Delhi,Current,33,Consultant,Retail,2023-05-21
+301,Rohan Das,Mumbai,Current,48,Analyst,Retail,2023-07-27
+302,Rohan Sharma,Delhi,Savings,23,Manager,Retail,2023-08-03
+303,Nandini Reddy,Delhi,Savings,62,Business Owner,Retail,2019-01-13
+304,Nikhil Iyer,Bangalore,Current,62,Consultant,Retail,2022-04-05
+305,Nikhil Verma,Delhi,Current,28,Engineer,Premium,2021-12-20
+306,Kavya Shetty,Mumbai,Current,35,Analyst,Retail,2018-10-07
+307,Vivaan Reddy,Hyderabad,Savings,49,Business Owner,Premium,2021-10-20
+308,Swathi Mishra,Mumbai,Current,61,Engineer,Retail,2018-11-24
+309,Divya Shetty,Delhi,Savings,58,Consultant,Retail,2020-08-08
+310,Arjun Joshi,Delhi,Savings,49,Doctor,Retail,2018-11-05
+311,Ananya Rao,Delhi,Savings,60,Analyst,Retail,2020-12-31
+312,Sneha Jain,Mumbai,Current,30,Teacher,Premium,2020-01-16
+313,Rahul Kapoor,Delhi,Current,56,Analyst,Retail,2023-05-29
+314,Vivaan Gupta,Mumbai,Savings,35,Analyst,Retail,2018-01-22
+315,Priya Menon,Delhi,Savings,56,Doctor,Retail,2023-05-07
+316,Aarav Bose,Mumbai,Savings,53,Manager,Retail,2019-03-09
+317,Arjun Bose,Chennai,Savings,49,Consultant,Corporate,2019-05-14
+318,Tanvi Bose,Delhi,Savings,37,Engineer,Retail,2018-08-22
+319,Divya Gowda,Mumbai,Savings,28,Doctor,Retail,2020-05-26
+320,Vikram Mishra,Bangalore,Savings,49,Consultant,Retail,2018-01-21
+321,Sneha Sharma,Hyderabad,Savings,61,Manager,Retail,2019-10-12
+322,Divya Iyer,Bangalore,Savings,65,Manager,Retail,2021-07-27
+323,Karan Rao,Mumbai,Savings,52,Engineer,Premium,2022-03-07
+324,Priya Bose,Delhi,Savings,62,Consultant,Retail,2019-01-21
+325,Aarav Bose,Delhi,Savings,36,Doctor,Premium,2020-10-09
+326,Siddharth Iyer,Hyderabad,Savings,49,Analyst,Premium,2019-07-22
+327,Vivaan Singh,Hyderabad,Savings,42,Teacher,Premium,2019-06-03
+328,Siddharth Das,Hyderabad,Savings,49,Engineer,Retail,2022-08-19
+329,Sneha Reddy,Mumbai,Savings,39,Manager,Retail,2020-12-27
+330,Priya Iyer,Hyderabad,Savings,29,Teacher,Retail,2020-12-11
+331,Vivaan Bose,Mumbai,Savings,30,Consultant,Retail,2020-12-22
+332,Nandini Das,Delhi,Savings,45,Doctor,Retail,2023-12-26
+333,Karan Rao,Mumbai,Current,49,Analyst,Premium,2020-09-21
+334,Pooja Kulkarni,Mumbai,Savings,33,Engineer,Retail,2024-01-03
+335,Ananya Jain,Delhi,Current,37,Analyst,Retail,2023-10-17
+336,Siddharth Kapoor,Mumbai,Savings,52,Analyst,Corporate,2019-05-21
+337,Aarav Shetty,Bangalore,Current,24,Analyst,Retail,2019-12-02
+338,Arjun Verma,Chennai,Savings,23,Consultant,Retail,2019-02-01
+339,Nikhil Menon,Mumbai,Current,60,Manager,Premium,2022-09-07
+340,Meera Gowda,Chennai,Savings,57,Consultant,Retail,2024-10-22
+341,Ananya Singh,Mumbai,Current,39,Engineer,Retail,2018-12-28
+342,Swathi Singh,Mumbai,Current,52,Analyst,Retail,2022-11-26
+343,Priya Mishra,Bangalore,Savings,57,Doctor,Corporate,2021-07-05
+344,Meera Kapoor,Mumbai,Savings,47,Consultant,Premium,2025-03-17
+345,Ananya Reddy,Delhi,Savings,41,Business Owner,Premium,2019-03-08
+346,Pooja Reddy,Hyderabad,Savings,37,Consultant,Retail,2025-04-02
+347,Tanvi Singh,Bangalore,Current,31,Engineer,Retail,2025-05-22
+348,Ananya Joshi,Delhi,Current,28,Analyst,Premium,2022-10-02
+349,Divya Gowda,Mumbai,Current,36,Consultant,Retail,2018-09-13
+350,Karan Gowda,Delhi,Savings,59,Engineer,Retail,2021-08-02
+351,Aditya Reddy,Chennai,Savings,42,Analyst,Retail,2024-04-25
+352,Ananya Gowda,Hyderabad,Current,34,Engineer,Corporate,2022-07-12
+353,Arjun Sharma,Delhi,Current,23,Analyst,Retail,2021-09-13
+354,Tanvi Sharma,Delhi,Savings,24,Engineer,Retail,2025-05-12
+355,Arjun Gupta,Bangalore,Savings,63,Consultant,Retail,2020-03-24
+356,Ananya Sharma,Mumbai,Savings,52,Analyst,Retail,2022-10-22
+357,Arjun Menon,Chennai,Current,26,Business Owner,Premium,2025-05-30
+358,Meera Bose,Delhi,Savings,30,Analyst,Retail,2023-11-24
+359,Siddharth Iyer,Mumbai,Current,53,Analyst,Premium,2020-01-21
+360,Swathi Reddy,Delhi,Savings,39,Manager,Premium,2024-05-06
+361,Vikram Kapoor,Delhi,Current,47,Teacher,Retail,2020-06-28
+362,Vivaan Gowda,Delhi,Current,55,Teacher,Retail,2019-07-09
+363,Rohan Kulkarni,Mumbai,Savings,42,Teacher,Retail,2021-11-05
+364,Arjun Kapoor,Delhi,Savings,29,Analyst,Retail,2021-05-17
+365,Kavya Bose,Delhi,Savings,38,Engineer,Retail,2025-03-03
+366,Nikhil Sharma,Mumbai,Current,50,Engineer,Premium,2022-04-01
+367,Priya Kulkarni,Mumbai,Savings,23,Teacher,Premium,2019-01-23
+368,Nikhil Nair,Delhi,Savings,25,Teacher,Premium,2022-12-29
+369,Pooja Bose,Mumbai,Current,39,Business Owner,Retail,2018-10-23
+370,Rohan Joshi,Bangalore,Savings,62,Analyst,Retail,2018-03-19
+371,Nandini Mehta,Bangalore,Current,60,Business Owner,Premium,2020-08-26
+372,Siddharth Singh,Mumbai,Current,31,Analyst,Retail,2020-10-25
+373,Tanvi Verma,Delhi,Savings,52,Business Owner,Retail,2022-03-20
+374,Priya Singh,Bangalore,Current,42,Teacher,Premium,2018-10-16
+375,Pooja Patel,Mumbai,Current,58,Doctor,Premium,2022-01-08
+376,Vivaan Nair,Mumbai,Savings,21,Business Owner,Retail,2021-10-13
+377,Ananya Singh,Mumbai,Current,30,Consultant,Retail,2018-05-09
+378,Vivaan Reddy,Chennai,Current,35,Doctor,Retail,2021-11-02
+379,Priya Joshi,Delhi,Current,65,Engineer,Retail,2022-03-11
+380,Aarav Das,Delhi,Savings,35,Business Owner,Retail,2019-11-22
+381,Tanvi Shetty,Delhi,Savings,44,Doctor,Premium,2019-05-07
+382,Tanvi Joshi,Hyderabad,Savings,52,Consultant,Retail,2023-08-15
+383,Tanvi Shetty,Chennai,Current,22,Teacher,Retail,2022-11-15
+384,Nikhil Menon,Mumbai,Savings,50,Analyst,Premium,2021-10-17
+385,Vivaan Singh,Hyderabad,Current,46,Business Owner,Retail,2018-04-12
+386,Kavya Gupta,Delhi,Current,47,Analyst,Retail,2020-08-04
+387,Priya Rao,Mumbai,Current,35,Analyst,Retail,2020-05-22
+388,Rahul Verma,Mumbai,Savings,61,Manager,Retail,2022-08-18
+389,Pooja Iyer,Delhi,Current,32,Business Owner,Retail,2020-10-15
+390,Meera Patel,Bangalore,Savings,58,Consultant,Retail,2019-12-26
+391,Pooja Patel,Bangalore,Current,27,Engineer,Retail,2018-01-01
+392,Aarav Iyer,Chennai,Savings,44,Consultant,Retail,2024-04-01
+393,Pooja Verma,Mumbai,Savings,36,Business Owner,Premium,2019-02-16
+394,Divya Kulkarni,Mumbai,Savings,32,Engineer,Retail,2020-09-01
+395,Siddharth Singh,Delhi,Savings,38,Engineer,Retail,2019-11-09
+396,Nikhil Patel,Delhi,Current,37,Doctor,Retail,2018-04-22
+397,Aarav Menon,Bangalore,Current,41,Manager,Retail,2024-08-25
+398,Swathi Mishra,Bangalore,Savings,63,Teacher,Retail,2018-08-31
+399,Priya Mishra,Hyderabad,Current,50,Manager,Retail,2021-12-11
+400,Karan Mishra,Hyderabad,Current,29,Manager,Retail,2018-09-28
+401,Aarav Shetty,Mumbai,Current,61,Manager,Retail,2022-08-14
+402,Pooja Patel,Bangalore,Savings,59,Consultant,Premium,2019-03-01
+403,Rohan Kapoor,Hyderabad,Current,22,Analyst,Retail,2018-06-28
+404,Nikhil Mishra,Chennai,Savings,41,Teacher,Retail,2022-10-20
+405,Meera Rao,Delhi,Savings,57,Doctor,Retail,2024-12-18
+406,Rohan Bose,Hyderabad,Savings,53,Engineer,Retail,2025-06-06
+407,Rahul Shetty,Bangalore,Savings,38,Manager,Retail,2018-03-07
+408,Aditya Reddy,Bangalore,Current,35,Analyst,Retail,2025-04-10
+409,Rohan Mehta,Bangalore,Savings,22,Engineer,Retail,2024-05-02
+410,Rohan Reddy,Bangalore,Savings,57,Engineer,Retail,2024-01-05
+411,Priya Iyer,Hyderabad,Current,26,Doctor,Retail,2024-01-29
+412,Karan Sharma,Bangalore,Current,35,Consultant,Retail,2023-04-17
+413,Kavya Iyer,Hyderabad,Savings,30,Doctor,Retail,2024-08-22
+414,Aarav Shetty,Mumbai,Current,47,Business Owner,Retail,2022-06-23
+415,Swathi Nair,Bangalore,Savings,48,Business Owner,Corporate,2025-01-31
+416,Priya Singh,Mumbai,Savings,61,Teacher,Retail,2019-12-27
+417,Tanvi Bose,Bangalore,Savings,32,Doctor,Retail,2023-06-24
+418,Aarav Mishra,Bangalore,Current,41,Analyst,Retail,2024-09-17
+419,Priya Mehta,Mumbai,Current,21,Doctor,Retail,2024-11-05
+420,Arjun Singh,Mumbai,Savings,34,Doctor,Retail,2021-10-26
+421,Vivaan Nair,Bangalore,Savings,38,Analyst,Retail,2018-06-07
+422,Karan Kapoor,Bangalore,Savings,35,Engineer,Retail,2020-11-29
+423,Kavya Iyer,Mumbai,Savings,24,Analyst,Retail,2019-06-01
+424,Aditya Kulkarni,Hyderabad,Current,48,Consultant,Retail,2019-12-13
+425,Vikram Gupta,Bangalore,Current,48,Business Owner,Retail,2018-10-25
+426,Nikhil Joshi,Mumbai,Current,32,Business Owner,Retail,2019-08-07
+427,Sneha Menon,Bangalore,Current,44,Analyst,Retail,2020-07-07
+428,Aditya Reddy,Mumbai,Savings,24,Doctor,Retail,2018-01-16
+429,Karan Mehta,Bangalore,Current,25,Analyst,Retail,2024-06-07
+430,Arjun Verma,Bangalore,Current,65,Manager,Retail,2018-01-25
+431,Nikhil Jain,Bangalore,Current,45,Doctor,Retail,2018-08-04
+432,Arjun Jain,Bangalore,Current,50,Business Owner,Premium,2022-10-21
+433,Rohan Joshi,Mumbai,Savings,64,Manager,Retail,2018-08-07
+434,Aditya Rao,Chennai,Current,54,Analyst,Retail,2021-01-26
+435,Swathi Das,Mumbai,Savings,34,Business Owner,Retail,2021-08-07
+436,Aarav Singh,Mumbai,Current,64,Doctor,Retail,2022-10-16
+437,Vivaan Reddy,Mumbai,Savings,48,Teacher,Retail,2019-07-25
+438,Swathi Kulkarni,Delhi,Savings,44,Teacher,Premium,2022-02-06
+439,Rahul Sharma,Delhi,Savings,64,Consultant,Retail,2021-05-02
+440,Tanvi Joshi,Chennai,Current,64,Teacher,Retail,2025-05-17
+441,Swathi Das,Chennai,Savings,29,Business Owner,Retail,2020-05-13
+442,Sneha Verma,Bangalore,Current,51,Analyst,Premium,2020-06-05
+443,Nandini Reddy,Mumbai,Current,42,Doctor,Retail,2019-09-05
+444,Aditya Shetty,Hyderabad,Savings,47,Business Owner,Premium,2021-03-30
+445,Rohan Sharma,Bangalore,Savings,52,Analyst,Retail,2021-01-06
+446,Aarav Sharma,Mumbai,Savings,37,Doctor,Retail,2024-11-29
+447,Nikhil Singh,Hyderabad,Current,64,Business Owner,Retail,2019-09-21
+448,Vikram Kapoor,Bangalore,Current,47,Teacher,Premium,2020-10-02
+449,Aarav Shetty,Mumbai,Current,49,Doctor,Retail,2022-06-29
+450,Tanvi Bose,Mumbai,Savings,59,Analyst,Retail,2020-06-09
+451,Rohan Kapoor,Bangalore,Savings,63,Consultant,Retail,2024-04-30
+452,Tanvi Patel,Hyderabad,Savings,56,Teacher,Retail,2021-12-23
+453,Vivaan Jain,Bangalore,Current,34,Manager,Retail,2023-09-26
+454,Ananya Jain,Delhi,Savings,54,Business Owner,Retail,2020-05-18
+455,Nikhil Bose,Bangalore,Savings,55,Analyst,Retail,2020-02-28
+456,Vikram Das,Hyderabad,Current,61,Doctor,Retail,2019-04-30
+457,Divya Joshi,Bangalore,Savings,24,Analyst,Retail,2018-11-14
+458,Divya Kulkarni,Delhi,Savings,24,Doctor,Retail,2020-01-30
+459,Meera Gowda,Mumbai,Savings,58,Engineer,Premium,2018-12-01
+460,Pooja Gowda,Mumbai,Current,32,Business Owner,Retail,2023-02-04
+461,Aditya Menon,Delhi,Current,29,Doctor,Retail,2023-02-01
+462,Meera Gupta,Hyderabad,Savings,65,Analyst,Corporate,2023-03-25
+463,Sneha Joshi,Chennai,Current,39,Analyst,Retail,2022-06-06
+464,Vikram Rao,Hyderabad,Current,25,Manager,Retail,2025-01-13
+465,Pooja Patel,Chennai,Savings,56,Analyst,Retail,2018-09-06
+466,Tanvi Gowda,Delhi,Savings,41,Consultant,Retail,2020-01-08
+467,Aditya Patel,Bangalore,Current,27,Consultant,Retail,2022-11-17
+468,Rahul Jain,Bangalore,Savings,50,Engineer,Retail,2020-05-15
+469,Kavya Kulkarni,Bangalore,Current,52,Manager,Retail,2018-02-03
+470,Aarav Bose,Delhi,Current,46,Manager,Retail,2019-05-09
+471,Rahul Joshi,Bangalore,Savings,26,Business Owner,Retail,2023-10-05
+472,Rahul Patel,Delhi,Current,53,Engineer,Retail,2018-05-18
+473,Kavya Kapoor,Bangalore,Savings,43,Consultant,Retail,2025-07-15
+474,Pooja Gowda,Delhi,Savings,33,Teacher,Retail,2018-04-20
+475,Vikram Nair,Mumbai,Current,37,Doctor,Retail,2022-11-20
+476,Divya Singh,Chennai,Savings,54,Analyst,Premium,2022-03-06
+477,Meera Mehta,Mumbai,Current,33,Teacher,Retail,2023-06-28
+478,Swathi Nair,Hyderabad,Current,50,Manager,Retail,2021-09-20
+479,Vivaan Nair,Chennai,Current,39,Teacher,Retail,2020-05-31
+480,Kavya Menon,Bangalore,Savings,55,Manager,Retail,2024-09-07
+481,Arjun Mishra,Hyderabad,Savings,26,Doctor,Retail,2024-01-06
+482,Nikhil Kulkarni,Bangalore,Current,33,Business Owner,Retail,2024-10-10
+483,Nandini Bose,Bangalore,Savings,21,Manager,Retail,2019-11-28
+484,Arjun Nair,Bangalore,Current,24,Consultant,Premium,2021-04-07
+485,Swathi Gowda,Chennai,Current,37,Engineer,Retail,2023-11-28
+486,Arjun Sharma,Mumbai,Savings,50,Consultant,Retail,2021-06-17
+487,Kavya Mishra,Delhi,Savings,21,Doctor,Premium,2023-07-23
+488,Divya Verma,Hyderabad,Current,46,Teacher,Premium,2021-03-27
+489,Siddharth Singh,Mumbai,Current,41,Analyst,Retail,2020-12-14
+490,Ananya Iyer,Mumbai,Savings,55,Teacher,Retail,2018-09-12
+491,Swathi Verma,Delhi,Savings,43,Doctor,Retail,2023-07-21
+492,Aditya Reddy,Mumbai,Current,49,Consultant,Retail,2018-11-13
+493,Nandini Das,Chennai,Savings,50,Business Owner,Retail,2022-05-20
+494,Sneha Menon,Mumbai,Savings,24,Doctor,Retail,2024-11-26
+495,Ananya Verma,Mumbai,Current,21,Business Owner,Retail,2019-01-23
+496,Karan Gupta,Chennai,Savings,64,Manager,Retail,2023-03-07
+497,Divya Shetty,Hyderabad,Savings,36,Teacher,Retail,2018-03-03
+498,Divya Kapoor,Hyderabad,Current,34,Engineer,Premium,2021-09-26
+499,Ananya Patel,Delhi,Savings,21,Teacher,Retail,2020-02-23
+500,Meera Verma,Hyderabad,Savings,44,Doctor,Retail,2021-08-06
